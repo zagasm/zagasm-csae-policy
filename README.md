@@ -61,7 +61,7 @@ Local law enforcement
 
 
 If you believe a child is in danger or you encounter CSAE content, please report it immediately at:
- 📧 safety@[yourdomain].com
+ 📧 safety@zagasm.com
 
 
  
@@ -114,14 +114,13 @@ Read our full Community Guidelines.
 
 📬 6. Contact and Accountability
 We maintain an open and transparent safety policy. For concerns, press, or escalations:
-📧 safety@[yourdomain].com
+📧 safety@zagasm.com
 
 
-📞 +1-xxx-xxx-xxxx (for urgent safety matters)
+📞  📧 +234 802 818 0778 (for urgent safety matters)
 
 
-📍 Office: [Your Office Address]
-
+📍 Office: Opposite Konwea Plaza, Asaba Delta State, Nigeria
 
 
 🧩 7. Policy Updates
