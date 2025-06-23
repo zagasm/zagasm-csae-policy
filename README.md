@@ -1,7 +1,15 @@
 Child Safety Standards & CSAE Prevention Policy
 
+
+
 Last Updated: June 23, 2025
+
 At Zagasm, we are deeply committed to the safety and well-being of all users, especially minors. This document outlines our publicly accessible child safety standards and our policies to combat Child Sexual Abuse and Exploitation (CSAE). Our approach is rooted in transparency, responsibility, and user empowerment.
+
+
+
+
+
 
 🔒 1. Commitment to Child Safety and CSAE Prevention
 We prohibit any form of content, behavior, or user activity that promotes or depicts child sexual abuse, exploitation, grooming, or inappropriate interactions with minors.
@@ -11,6 +19,9 @@ We enforce a zero-tolerance policy on CSAE content and related behaviors.
 
 
 We actively monitor, detect, and report any suspected CSAE to relevant legal authorities and child protection organizations.
+
+
+
 
 
 
@@ -26,6 +37,9 @@ All images and videos are scanned against known CSAE content databases (e.g., Ph
 
 
 Our system monitors and limits interactions involving users who self-identify or appear to be under 18.
+
+
+
 
 
 
@@ -49,6 +63,11 @@ Local law enforcement
 If you believe a child is in danger or you encounter CSAE content, please report it immediately at:
  📧 safety@[yourdomain].com
 
+
+ 
+
+
+
 🛡️ 4. User Safety Features
 We have implemented multiple tools to protect users:
 Profile verification: Optional photo-based verification to reduce impersonation.
@@ -64,6 +83,10 @@ Chat restrictions: New users have limited communication abilities until trust si
 
 
 Suspicious behavior detection: AI-based alerts flag grooming-like behavior for review.
+
+
+
+
 
 
 
@@ -83,6 +106,11 @@ Solicitation or grooming behavior.
 
 Violations result in immediate account suspension or permanent ban, and evidence may be shared with law enforcement.
 Read our full Community Guidelines.
+
+
+
+
+
 
 📬 6. Contact and Accountability
 We maintain an open and transparent safety policy. For concerns, press, or escalations:
